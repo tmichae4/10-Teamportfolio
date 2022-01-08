@@ -18,8 +18,11 @@ Then once you run "node index.js", after answering the prompts, and was able to 
 
 <h3>Links</h3>
 https://tmichae4.github.io/10-Teamportfolio/
+https://watch.screencastify.com/v/ktlRVHiiGz14Gn0YIU9i
 
 <h3>Screenshots</h3>
-<img width="870" alt="Screen Shot 2021-10-17 at 5 00 02 PM" src="">
 
-<img width="862" alt="Screen Shot 2021-10-17 at 5 00 06 PM" src="">
+![Screen Shot 2022-01-07 at 10 48 20 PM](https://user-images.githubusercontent.com/83481294/148630505-f5ccf27e-1746-4e75-b30c-b61d7ddec70a.png)
+
+![Screen Shot 2022-01-07 at 10 48 30 PM](https://user-images.githubusercontent.com/83481294/148630511-0c91c545-1afd-4730-9fcb-7d44e422e798.png)
+
