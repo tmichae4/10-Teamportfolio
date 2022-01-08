@@ -17,7 +17,7 @@ The I worked to create an html which would  apply the information passed through
 Then once you run "node index.js", after answering the prompts, and was able to generate a web page that included all of my teams data in a neat and organzied manner, also applying a css bootstrap link to make it look cleaner and organize the data.</p>
 
 <h3>Links</h3>
-
+https://tmichae4.github.io/10-Teamportfolio/
 
 <h3>Screenshots</h3>
 <img width="870" alt="Screen Shot 2021-10-17 at 5 00 02 PM" src="">
