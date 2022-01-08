@@ -2,7 +2,7 @@ const { expect } = require("@jest/globals")
 const Manager = require('../lib/Manager')
 
 test('Test Manager Class', () => {
-    const Jeff = new Manager("Jeff", 64, "mynameisjeff@msn.com", "Jeffisthename")
+    const Jeff = new Manager("Jeff", 64, "mynameisjeff@msn.com", 90)
     let boolean
     if(typeof Jeff === "object") {
         boolean = true
@@ -11,5 +11,5 @@ test('Test Manager Class', () => {
     }
     expect(boolean).toBe(true)
     expect(Jeff.getRole()).toBe("Manager")
-    expect(Jeff.getOfficeNumber()).toBe(Jeffisthename)
+    expect(Jeff.getOfficeNumber()).toBe(90)
 })
